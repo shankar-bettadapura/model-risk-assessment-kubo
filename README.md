@@ -111,4 +111,4 @@ This project was developed as part of a cybersecurity and AI governance portfoli
 
 **Certifications:** CompTIA Security+ | CISA (in progress) | CRISC (in progress) | ISO 42001 (in progress)
 
-🔗 [www.linkedin.com/in/shankar-bettadapura](#) | 🔗 [[Substack](https://shankarbettadapura.substack.com/)](#)
+🔗 [www.linkedin.com/in/shankar-bettadapura](#) | 🔗 [[Substack](https://shankarbettadapura.substack.com)](#)
